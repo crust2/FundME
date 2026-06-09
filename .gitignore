@@ -1,0 +1,6 @@
+cache/
+out/
+broadcast/
+zkout/
+.env
+.env.*
